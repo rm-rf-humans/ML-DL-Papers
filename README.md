@@ -8,7 +8,6 @@ Cool papers/books to read during the summer break :0
 ## Quantization and Tuning
 - [[arxiv](https://arxiv.org/abs/1712.05877)] Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference 
 - [[arxiv](https://arxiv.org/abs/2101.00190)] Prefix-Tuning: Optimizing Continuous Prompts for Generation
-- [[arxiv](https://arxiv.org/pdf/1712.05877)] Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 - [[arxiv](https://arxiv.org/pdf/1902.00751)] Parameter-Efficient Transfer Learning for NLP
   ### Blogs
   - [[Blog](https://mett29.github.io/posts/quantization/)] Quantization in Deep Learning
