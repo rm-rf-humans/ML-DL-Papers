@@ -1,4 +1,4 @@
-# ML-Papers
+# ML/DL Papers
 Cool papers/books to read during the summer break :0
 
 ## LoRA
